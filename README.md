@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm a Backend Developer in Seoul, Korea. 
+### I'm learning Spring Framework to become a Backend Developer in Seoul, Korea. 
 
 <!--
 **goodtonoh/goodtonoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
