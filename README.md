@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I'm learning Spring Framework to become a Backend Developer in Seoul, Korea. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodtonoh&show_icons=true&theme=tokyonight)
 
 ### 🔭 I’m currently working on ...
 ### 🌱 I’m currently learning ...
