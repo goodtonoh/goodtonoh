@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Welcome to my github page! 
+### Welcome to my github page! :)  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodtonoh&show_icons=true&theme=tokyonight)
 
