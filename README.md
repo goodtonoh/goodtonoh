@@ -1,11 +1,10 @@
 ### Hi there 👋
-### I'm a Backend Developer in Seoul, Korea. 
+### Welcome to my github page! 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodtonoh&show_icons=true&theme=tokyonight)
 
-### 🔭 I’m currently working on the Hanghae99 project.
-### 🌱 I’m currently learning Spring Framework.
-### 💬 Ask me about ...
+### 🌱 Spring Framework
+### 💬 Ask me about: ...
 ### 📫 Contact me: ...
 ### ⚡ Fun fact: ...
 
