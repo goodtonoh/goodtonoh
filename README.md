@@ -3,10 +3,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodtonoh&show_icons=true&theme=tokyonight)
 
-### 🌱 Spring Framework
-### 💬 Ask me about: ...
-### 📫 Contact me: ...
-### ⚡ Fun fact: ...
+
 
 <!--
 **goodtonoh/goodtonoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
